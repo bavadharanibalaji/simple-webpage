@@ -1,0 +1,85 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+
+    .lora-uniquifier font-family: lora, serif;
+    font-optical-sizing: auto;
+    font-weight: weight font-style:normal
+}
+
+.header {
+    background-color:#6E5034;
+    color:white;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+.header p {
+    color: #EFE1B5;
+}
+
+.container {
+    background-image:url(images/backg.jpg);
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+
+
+}
+
+.card {
+    display: inline-block;
+    border: 2px solid white;
+    width: 200px;
+    margin: 5px;
+    background-color: white;
+
+}
+
+.card img {
+    width: 200px;
+    height: 230px;
+    
+    
+}
+
+.card p {
+    padding: 10px;
+}
+
+.card button {
+    background-color:#161E54;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.contact {
+    background-color:#C08552;   
+    color:white;
+    text-align: center;
+    font-weight: 600;
+    margin: 5px;
+}
+
+.contact table {
+    margin: auto;
+}
+
+.contact input {
+    padding: 5px;
+    margin: 5px;
+}
+
+.send {
+    background-color:#161E54 ;
+    width: 200px;
+    padding: 10px;
+    border: none;
+    color: white;
+    
+}
